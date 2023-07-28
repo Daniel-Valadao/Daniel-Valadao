@@ -7,7 +7,7 @@
     </p>
 </div>
 
-![Daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel Valdão_icons=true&theme=dracula)
+![Daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel-Valadao&show_icons=true&theme=dracula)
 
 ## Tecnologias que estou estudando
 
