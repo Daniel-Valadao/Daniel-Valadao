@@ -38,7 +38,6 @@
         🕮 Percy Jackson - E a Maldição do Titã
         </li>
         <li>🕮 A Revolução dos Bichos
-        <li> 
     </ul>
 </div>
 
